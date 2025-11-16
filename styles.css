@@ -1,0 +1,81 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    padding: 1.5px;
+    border-radius: 20px;
+}
+
+body {
+    margin: 1.5em;
+    font-size: 20px;
+    background-color:gray;
+    padding: 1.5px;
+    border-radius: 10px;
+}
+
+h1 {
+    border: dashed darkblue;
+    border-top: dashed darkblue;
+    border-right:  dashed darkblue;
+    border-left:  dashed darkblue;
+    color: tomato;
+    background-color: white;
+}
+
+p1 {
+    font-size: 1.5px;
+    color: darkblue;
+}
+
+h2 {
+    border: 5px double lime;
+    font-size: 40px;
+    color: tomato;
+  background-color: darkblue;
+}
+p1, p2 {
+    color: darkblue;
+    font-size: 20px;  
+}
+section {
+    border: 2.5px dashed darkblue;
+    border-top: dashed darkblue;
+    border-right: dotted darkblue;
+    border-bottom-left-radius: 0%;
+    border-top-right-radius: 0%;
+    margin: 1.5em;
+    padding: 1.5em;
+    background-color: deepskyblue;
+}
+.img {
+    margin: 0;
+    border: 5px solid darkblue;
+    width: 300px;
+    height: 200px;
+    padding: 1.5px;
+    border-radius: 50px;
+}
+div {
+    border: 1px solid darkblue;
+    margin: 2em;
+    padding: 1.5em;
+    border-radius: 15px;
+}
+table {
+       
+}
+tr {
+    border: 2px solid darkblue;
+    padding: 1.5px;
+}
+
+link {
+    background-color: gray;
+}
+
+button{
+    color: blue;
+    margin: 0;
+    border-radius: 15px;
+}
